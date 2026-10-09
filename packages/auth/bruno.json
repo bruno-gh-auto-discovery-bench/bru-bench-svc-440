@@ -1,0 +1,9 @@
+{
+  "version": "1",
+  "name": "media-auth",
+  "type": "collection",
+  "ignore": [
+    "node_modules",
+    ".git"
+  ]
+}

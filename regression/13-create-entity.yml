@@ -1,0 +1,6 @@
+info:
+  name: create 13
+  type: http
+http:
+  method: GET
+  url: https://api.example.test/media-regression-4/13

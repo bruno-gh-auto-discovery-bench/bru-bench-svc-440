@@ -1,0 +1,9 @@
+{
+  "version": "1",
+  "name": "media-v2-2",
+  "type": "collection",
+  "ignore": [
+    "node_modules",
+    ".git"
+  ]
+}

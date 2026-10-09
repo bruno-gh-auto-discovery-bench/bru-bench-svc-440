@@ -1,0 +1,6 @@
+info:
+  name: update 9
+  type: http
+http:
+  method: GET
+  url: https://api.example.test/media-collection-5/9

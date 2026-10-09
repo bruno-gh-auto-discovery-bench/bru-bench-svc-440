@@ -1,0 +1,9 @@
+{
+  "version": "1",
+  "name": "media-smoke-4",
+  "type": "collection",
+  "ignore": [
+    "node_modules",
+    ".git"
+  ]
+}
